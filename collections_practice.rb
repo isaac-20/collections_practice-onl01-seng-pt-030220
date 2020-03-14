@@ -32,3 +32,4 @@ def kesha_maker(array)
     doll[2] = "$"
   end
 end
+
