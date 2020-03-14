@@ -47,10 +47,4 @@ def sum_array(array)
   return sum
 end 
 
-def sum_array(array)
-  sum = 0
-  array.each do |num|
-    sum+=num
-  end
-  sum
-end 
+
