@@ -11,3 +11,8 @@ def sort_array_desc(array)
   end
   return des
 end
+
+def sort_array_char_count(array)
+  arr_copy = []
+  i = 0
+  while i < array.length
